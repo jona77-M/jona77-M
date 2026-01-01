@@ -62,5 +62,5 @@ Thanks for visiting my garden.
 Feel free to explore and come back anytime 🍃
 
 
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats 
-![ Jona's github stats](https://github-readme-stats.vercel.app/api?username=jona77-M&count_private=true&show_icons=true&theme=radical&hide_rank=false) -->
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats  -->
+![Jona's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jona77-M&show_icons=true&theme=radical)
