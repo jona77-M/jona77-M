@@ -16,7 +16,7 @@ A living space where my ideas grow, my skills slowly bloom, and learning never r
 
 ### 🌿 Currently Growing
 - 🌱 **Learning:** Programming fundamentals, web development, and problem-solving  
-- 🛠️ **Practicing:** JavaScript, HTML, CSS, Python,java
+- 🛠️ **Practicing:** JavaScript, HTML, CSS, Python, Java
 - 🌿 **Exploring:** APIs, Robotics, and school projects
 
 ---
