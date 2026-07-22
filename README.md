@@ -62,21 +62,21 @@ Thanks for visiting my garden.
 Feel free to explore and come back anytime 🍃
 
 ---
-
 ## 🛠️ Tech Stack
 
 ### Programming Languages
 
 [![Languages](https://skillicons.dev/icons?i=java,python,javascript,html,css)](https://skillicons.dev)
 
-### Frameworks & Tools
+**Also familiar with:** R, XML
 
-[![Frameworks](https://skillicons.dev/icons?i=flask,git,github,vscode)](https://skillicons.dev)
+### Frameworks & Technologies
+
+[![Frameworks](https://skillicons.dev/icons?i=flask,spring,git,github,vscode,androidstudio)](https://skillicons.dev)
 
 ### Databases
 
-[![Databases](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
-
+[![Databases](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 ---
 
 
