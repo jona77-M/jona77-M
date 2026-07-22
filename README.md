@@ -59,17 +59,9 @@ Some things growing in my garden:
 
 
 ---
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
-
-[![Languages](https://skillicons.dev/icons?i=java,python,javascript,html,css)](https://skillicons.dev)
-
-
-[![Frameworks](https://skillicons.dev/icons?i=flask,spring,git,github,vscode,androidstudio)](https://skillicons.dev)
-
-
-[![Databases](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
----
+[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,html,css,flask,spring,mysql,git,github,vscode,androidstudio)](https://skillicons.dev)
 
 
 Thanks for visiting my garden.  
