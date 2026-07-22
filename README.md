@@ -78,3 +78,10 @@ Feel free to explore and come back anytime 🍃
 [![Databases](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
 
 ---
+
+
+## 📊 GitHub Statistics
+
+![](https://github-readme-stats.vercel.app/api?username=jona77-M&show_icons=true&theme=github_dark)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jona77-M&layout=compact&theme=github_dark)
