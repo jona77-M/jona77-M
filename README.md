@@ -58,28 +58,19 @@ Some things growing in my garden:
 - 🌱 This profile will keep changing as I grow  
 
 
-Thanks for visiting my garden.  
-Feel free to explore and come back anytime 🍃
-
 ---
 ## 🛠️ Tech Stack
 
-### Programming Languages
 
 [![Languages](https://skillicons.dev/icons?i=java,python,javascript,html,css)](https://skillicons.dev)
 
-**Also familiar with:** R, XML
-
-### Frameworks & Technologies
 
 [![Frameworks](https://skillicons.dev/icons?i=flask,spring,git,github,vscode,androidstudio)](https://skillicons.dev)
 
-### Databases
 
 [![Databases](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 ---
-## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jona77-M&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jona77-M&layout=compact&theme=github_dark)
+Thanks for visiting my garden.  
+Feel free to explore and come back anytime 🍃
