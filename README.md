@@ -61,6 +61,20 @@ Some things growing in my garden:
 Thanks for visiting my garden.  
 Feel free to explore and come back anytime 🍃
 
+---
 
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats 
-![Jona's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jona77-M&show_icons=true&theme=radical)  -->
+## 🛠️ Tech Stack
+
+### Programming Languages
+
+[![Languages](https://skillicons.dev/icons?i=java,python,javascript,html,css)](https://skillicons.dev)
+
+### Frameworks & Tools
+
+[![Frameworks](https://skillicons.dev/icons?i=flask,git,github,vscode)](https://skillicons.dev)
+
+### Databases
+
+[![Databases](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
+
+---
