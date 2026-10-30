@@ -1,5 +1,5 @@
 ## 🌿 Welcome to my Digital Garden 🍄
-🙋🏻‍♀️
+####🙋🏻‍♀️
 
 A living space where my ideas grow, my skills slowly bloom, and learning never really ends.
 
