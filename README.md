@@ -52,10 +52,9 @@ Some things growing in my garden:
 
 ---
 
-### 🎉 Fun Facts
-- 🍄 I like the “digital garden” concept because learning never really ends  
-- 🐞 Bugs are annoying, but they’re also teachers  
-- 🌱 This profile will keep changing as I grow  
+ 
+🐞 Bugs are annoying, but they’re also teachers  
+🌱 This profile will keep changing as I grow  
 
 
 ---
@@ -65,4 +64,3 @@ Some things growing in my garden:
 
 
 Thanks for visiting my garden.  
-Feel free to explore and come back anytime 🍃
