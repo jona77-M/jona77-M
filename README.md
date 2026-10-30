@@ -1,16 +1,7 @@
 ## 🌿 Welcome to my Digital Garden 🍄
+🙋🏻‍♀️
 
 A living space where my ideas grow, my skills slowly bloom, and learning never really ends.
-
----
-
- 🌿 Seedlings = things I’m learning
- 
- 🌼 Flowers = projects I’m proud of
- 
- 🍄 Mushrooms = experiments & random ideas
- 
- 🐞 Bugs = lessons learned the hard way
 
 ---
 
